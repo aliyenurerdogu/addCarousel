@@ -3,10 +3,11 @@
 Bu proje, Ebebek sayfasında ürünlerin listelenmesi, favori ürünlerin yönetilmesi ve yerel depolama kullanarak bu verilerin saklanması işlevselliğine sahip bir projedir. API'den veri çekilir ve kullanıcı, ürünleri favorilerine ekleyip çıkarabilir.
 
 ## Proje Görselleri
-# Tam Ekran Görünüm : 
+
+### Tam Ekran Görünüm : 
 ![Tam](./addCarouselFullPage.png)
 
-# Mobile Halinde Görünüm : 
+### Mobile Halinde Görünüm : 
 ![Mobile](./addCarouselMobile.png)
 
 ## Özellikler
