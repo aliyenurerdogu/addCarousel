@@ -1,6 +1,11 @@
-# Ürün Listesi ve Favori Yönetim Uygulaması
+# Ebebek Add Carousel Project
 
-Bu proje, ürünlerin listelenmesi, favori ürünlerin yönetilmesi ve yerel depolama kullanarak bu verilerin saklanması işlevselliğine sahip bir web uygulamasıdır. API'den veri çekilir ve kullanıcı, ürünleri favorilerine ekleyip çıkarabilir.
+Bu proje, Ebebek sayfasında ürünlerin listelenmesi, favori ürünlerin yönetilmesi ve yerel depolama kullanarak bu verilerin saklanması işlevselliğine sahip bir projedir. API'den veri çekilir ve kullanıcı, ürünleri favorilerine ekleyip çıkarabilir.
+
+## Proje Görselleri
+Tam Ekran Görünüm : 
+
+Mobile Halinde Görünüm : 
 
 ## Özellikler
 
@@ -16,17 +21,10 @@ Bu proje, ürünlerin listelenmesi, favori ürünlerin yönetilmesi ve yerel dep
 - API ile veri çekme
 - Yerel depolama (localStorage)
 
-## Kullanıcı Arayüzü
-
-Proje, kullanıcıya aşağıdaki işlemleri sunar:
-
-1. **Ana Sayfa**: Ürünlerin listelendiği sayfa.
-2. **Favori Yönetimi**: Ürünleri favorilere ekleyebilir veya favorilerden çıkarabilirsiniz.
-3. **Favori İkonu**: Ürün favoriye eklendiğinde ikon değişir.
-
 ## Kurulum
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
    git clone <repo-url>
-2. Eklemek istediğinz sayfada bu kodu console'a yapıştırın ve çalıştırın.
+   
+2. Ebebek ana sayfasında bu kodu console'a yapıştırın ve çalıştırın.
