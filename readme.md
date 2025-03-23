@@ -28,6 +28,6 @@ Bu proje, Ebebek sayfasında ürünlerin listelenmesi, favori ürünlerin yönet
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/aliyenurerdogu/addCarousel.git
    
 2. Ebebek ana sayfasında bu kodu console'a yapıştırın ve çalıştırın.
