@@ -1,5 +1,4 @@
 (() => {
-    //guncel kod burda
     const STORAGE_KEY = 'product_list';
     const FAVORITES_KEY = 'favorite_products';
     const API_URL = 'https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json';
@@ -560,7 +559,6 @@
                 background-color: #f28e00;
                 color: #fff;
             }
-            
             @media (max-width: 480px){
                 .carousel-header {
                     padding: 0 22px 0 10px;
