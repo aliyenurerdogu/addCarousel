@@ -4,9 +4,9 @@ Bu proje, Ebebek sayfasında ürünlerin listelenmesi, favori ürünlerin yönet
 
 ## Proje Görselleri
 Tam Ekran Görünüm : 
-
+![Tam](./addCarouselFullPage.png)
 Mobile Halinde Görünüm : 
-
+![Mobile](./addCarouselMobile.png)
 ## Özellikler
 
 - Ürünleri API'den çekme
